@@ -60,3 +60,7 @@ Intermediate/*
 
 # Cache files for the editor to use
 DerivedDataCache/*
+
+*.xcworkspacedata
+
+ElementsOfWar.xcworkspace/xcuserdata/markjohnston.xcuserdatad/WorkspaceSettings.xcsettings
